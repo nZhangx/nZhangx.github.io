@@ -6,14 +6,14 @@ email: nzhang@cmmt.ubc.ca
 description: Deep learning, Evolution, Molecular Biology
 baseurl: "https://nzhangx.github.io./"
 url: "https://nzhangx.github.io./"
-name: Matt Couchman
-job: front end engineer
-location: Birmingham, UK
+name: Nicole Zhang
+job: Masters Student in Bioinformatics
+location: Vancouver, Canada
 languages: Python, R, Bash, Java
 twitter_username: NZhang211
 github_username:  nZhangx
 #codepen_username:  mattcouchman
-email_address: some@email.com
+email_address: nzhang@cmmt.ubc.ca
 
 # Build settings
 markdown: kramdown
