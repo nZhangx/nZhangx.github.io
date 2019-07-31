@@ -1,0 +1,19 @@
+# Jekyll Resume Theme
+
+# Site settings
+title: Nicole Zhang
+email: nzhang@cmmt.ubc.ca
+description: Deep learning, Evolution, Molecular Biology
+baseurl: "https://nzhangx.github.io./"
+url: "https://nzhangx.github.io./"
+name: Matt Couchman
+job: front end engineer
+location: Birmingham, UK
+languages: Python, R, Bash, Java
+twitter_username: NZhang211
+github_username:  nZhangx
+#codepen_username:  mattcouchman
+email_address: some@email.com
+
+# Build settings
+markdown: kramdown

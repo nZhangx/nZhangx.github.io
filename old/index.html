@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+<link href="https://fonts.googleapis.m/css?family=Pacifico"
+rel="stylesheet" type='text/css'/>
+<head>
+<style>
+html,body{
+    margin:0;
+    padding:0;
+}
+
+h1{
+    margin:0;
+    width:100%;
+    color:white;
+    font-family:"Helvetica Neue",Helvetica,sans-serif;
+    font-size:50px;
+    text-align:center;		
+    text-shadow:0 0 20px #000000;
+    padding-top:20%;
+    padding-bottom:80%;    
+
+}
+.headingPic{
+    margin-right:0;
+    background-image:url("me.jpg");
+    height:30%;	
+    width:100%;
+    position:relative;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:top;
+    background-attachment:fixed;
+    padding-top:20%;
+    padding-bottom:50%;
+
+}
+p{
+    position:relative;
+font-family:Helvetica;
+color:"lightgrey";
+background-color:white;
+text-align:justify;
+
+}
+h1::selection{
+    text-shadow: 0px 0px 0 #FF0098;
+}
+h1::-moz-selection{
+    /*text-shadow: 0px 0px 0 #BFFF00;*/
+    background:#000000;
+    position:center;
+    padding:3;
+}
+
+p.padding{
+    padding-left:10%;
+    padding-right:10%;
+}
+p::selection{
+    background-color: #fcceff;
+}
+
+p::-moz-selection{
+    background:#fcceff;
+}
+
+
+
+.container{
+    background-color:black;
+    position:center;
+    width:100%;
+    padding-top:2%;
+    padding-bottom:2%;
+    margin:0;
+
+}
+
+.end{
+   position:bottom center;
+   color:white;
+   text-align:center;   
+   margin:0; 
+}
+
+
+/*This is for dropdown menu bar*/
+ul{
+    font-family:Helvetica;
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color:#333333;
+}
+
+li{
+    float:left;
+}
+/*
+li a{
+    display:block;
+    color:white;
+    text-align:center;
+    padding: 20px;
+    text-decoration:none;
+
+}
+*/
+
+li a, .dropbtn{
+    display:inline-block;
+    color:white;
+    text-align:center;
+    padding:14px 16px;
+    text-decoration:none;
+}
+
+
+
+/*this is for main bar change color when hover*/
+li a:hover, .dropdown:hover .dropbtn{
+    background-color:#000000;
+    text-shadow:0 0 10px #FF0098;
+    
+}
+
+/*unsure*/
+li.dropdown{
+    
+    display:inline-block;
+}
+
+/*This is for limiting dropdown menu shape & size*/
+.dropdown-content{
+    display:none;
+    position:absolute;
+    background-color:grey;
+    min-width:160px;
+    box-shadow:0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index:1;
+opacity:0.8;
+}
+
+/*this is for display content horizontally and with a reasonable
+background colour*/
+.dropdown-content a{
+    color:black;
+    padding:12px 16px;
+    text-decoration:none;
+    display:block;
+    text-align:left;
+
+}
+
+.dropdown-content a:hover{background-color:white}
+.dropdown:hover .dropdown-content{
+    display:block;
+}
+</style>
+</head>
+
+<body>
+<ul>
+    <li><a href="http://info.mcmaster.ca/nicole/index.html">Home</a></li>
+
+    <li><a href="http://info.mcmaster.ca/nicole/aboutme.html">About
+        me</a></li>
+    <li class="dropdown">
+        <a href="javascript:void(0)" class="dropbtn">Project</a>
+            <div class="dropdown-content">
+                <a
+                    href="http://info.mcmaster.ca/nicole/CaribouProteinBlast.html">Caribou
+                    genome protein annotation</a>
+<A
+href="http://info.mcmaster.ca/nicole/duplicative.html">Duplicative Gene
+Analysis</a>
+
+<a href="http://info.mcmaster.ca/nicole/deerCow.html">Duplicative Gene
+    Analysis 2</a>
+
+<a href="http://info.mcmaster.ca/nicole/cSINEtable.html">Caribou SINE
+    element</a>
+
+<a href="http://info.mcmaster.ca/nicole/treeFile.html">SINE element
+    tree</a>
+            </div>
+        </li>
+    
+        <!-- <li><a href="#CV">CV</a></li>-->    
+    <li><a href="mailto:nicole@evol.mcmaster.ca">Contact</a></li>
+        <li><a
+            href="http://info.mcmaster.ca/nicole/aboutme.html"></a></li>
+
+</ul>
+<h1 class="headingPic" id="home">Hi there, I'm Nicole. </h1>
+<br><br>
+<p class="padding">
+My name is Nicole Zhang and I am currently a Masters student at the Wasserman lab in the BC Children's Hospital Research Institute.
+<br>
+<br>
+	<!--
+Click on the file to download:<br>
+<a href="blastPcaribou.txt" download>Caribou Protein Blast</a>
+<a href="caribouP.txt" download>complete caribou protein blast</a>
+-->
+<br>
+I am fluent in several programming languages, including java and
+python. Most of my projects are done with python. I also use Linux
+bash script to run my programs.
+<br>
+<br><br>
+</p>
+<p class="padding">
+
+</p>
+
+<br><br><br><br><br><br><br>
+<p class="container end">
+Made by Nicole Zhang @ 2017
+</p>
+</body>
+</html>
+
