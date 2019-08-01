@@ -18,7 +18,22 @@
         <dt>
             <p class="title">{{ qualification.qualification }}</p>
             <p class="company">{{ qualification.school }}</p>
-            <p class="period">{{ qualification.period }}</p>
+            <p class="period">{{ qualification.supervisor }}</p>
+            <p class="period">{{ qualification.description }}</p> 
+        </dt><!--
+        --><dd>
+            <p>{{ qualification.description }}</p>
+        </dd>
+    {% endfor %}
+</dl>
+
+<h3 class="section-title">Publications</h3>
+<dl class="publication">
+    {% for pub in site.data.publication %}
+        <dt>
+            <p class="title">{{ pub.title }}</p>
+            <p class="company">{{ pub.DOI }}</p>
+            <p class="period">{{ pub.citation }}</p>
         </dt><!--
         --><dd>
             <p>{{ qualification.description }}</p>
