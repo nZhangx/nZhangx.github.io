@@ -1,7 +1,11 @@
 -   title: Bat's IRF phylogenetic selection analysis
-    company: Undergraduate Thesis project
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    company: Golding lab
+    description: Exploring bats' unique immunological property via phylogenetic and selection analysis.
 
--   title: Front end developer
-    company: Company Y
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-   title: Caribou genome annotation
+    company: Golding lab
+    description: Annotate caribou genome via BLASTN, with duplicative gene analysis and k-mer analysis.
+
+-   title: Pancreatic stem cell ChIP-seq and RNA-seq analysis
+    company: Kleger lab
+    description: Build ChIP-seq and RNA-seq pipeline and perform gene set enrichment analysis (GSEA) on RNA-seq data. Correlate ChIP-seq data with the existing enhancer location data of cells of different stages and extract motifs via MEME suite.
