@@ -19,10 +19,11 @@
             <p class="title">{{ qualification.qualification }}</p>
             <p class="company">{{ qualification.school }}</p>
             <p class="period">{{ qualification.supervisor }}</p>
-            <p class="period">{{ qualification.description }}</p> 
+             
         </dt><!--
         --><dd>
             <p>{{ qualification.description }}</p>
+            <p>{{ qualification.courses }}</p>
         </dd>
     {% endfor %}
 </dl>
@@ -33,7 +34,7 @@
         <dt>
             <p class="title">{{ pub.title }}</p>
             <p class="company">{{ pub.DOI }}</p>
-            <p class="period">{{ pub.citation }}</p>
+            <p class="period">{{ pub.Journal }}</p>
         </dt><!--
         --><dd>
             <p>{{ qualification.description }}</p>
