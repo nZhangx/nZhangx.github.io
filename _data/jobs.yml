@@ -1,11 +1,11 @@
 -   title: Bat's IRF phylogenetic selection analysis
-    company: Golding lab
+    company: Dr. G. B. Golding, Dr. Dawn D. E. Bowdish
     description: Exploring bats' unique immunological property via phylogenetic and selection analysis. 
 
 -   title: Caribou genome annotation
-    company: Golding lab
+    company: Dr. G. B. Golding
     description: Annotate caribou genome via BLASTN, with duplicative gene analysis and k-mer analysis.
 
 -   title: Pancreatic stem cell ChIP-seq and RNA-seq analysis
-    company: Kleger lab
+    company: Dr.rer.md Alexanger Kleger
     description: Build ChIP-seq and RNA-seq pipeline and perform gene set enrichment analysis (GSEA) on RNA-seq data. Correlate ChIP-seq data with the existing enhancer location data of cells of different stages and extract motifs via MEME suite.
