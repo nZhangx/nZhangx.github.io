@@ -1,11 +1,14 @@
 -   title: Bat's IRF phylogenetic selection analysis
     company: Dr. G. B. Golding, Dr. Dawn D. E. Bowdish
+    period: 2018-2019 (Undergraduate thesis project)
     description: Exploring bats' unique immunological property via phylogenetic and selection analysis. 
 
 -   title: Caribou genome annotation
     company: Dr. G. B. Golding
-    description: Annotate caribou genome via BLASTN, with duplicative gene analysis and k-mer analysis.
+    period: 2017 - 2018
+    description: Annotate caribou genome via BLASTN, with duplicative gene analysis and k-mer  analysis. A phylogenetic tree based on the SINE element Bov-tA was created using MrBayes Bayesian Inference tool.
 
 -   title: Pancreatic stem cell ChIP-seq and RNA-seq analysis
     company: Dr.rer.md Alexanger Kleger
+    period: 2018 - (DAAD RISE internship)
     description: Build ChIP-seq and RNA-seq pipeline and perform gene set enrichment analysis (GSEA) on RNA-seq data. Correlate ChIP-seq data with the existing enhancer location data of cells of different stages and extract motifs via MEME suite.
