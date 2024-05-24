@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Machine Learning, McGill, 2028 (expected)
+* Medicine Doctorem et Chirurgie Magistrum (MD), McGill University, 2030 (expected)
+* M.S. Bioinformatics, University of British Columbia
+* B.S. Biochemistry specialization, Mathematics Minor, McMaster University 
 
 Work experience
 ======
