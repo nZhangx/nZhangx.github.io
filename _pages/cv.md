@@ -12,35 +12,28 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, Machine Learning, McGill, 2028 (expected)
+  * Thesis Supervisor: Prof. Yoshua Bengio, Prof. Mathieu Blanchette
 * Medicine Doctorem et Chirurgie Magistrum (MD), McGill University, 2030 (expected)
 * M.S. Bioinformatics, University of British Columbia
-* B.S. Biochemistry specialization, Mathematics Minor, McMaster University 
+  * Thesis Supervisor: Dr. Wyeth Wasserman, Dr. Sara Mostafavi
+* B.Sc Biochemistry specialization, Mathematics Minor, McMaster University 
+  * Honours Thesis Supervisor: Dr. Brian Golding, Dr. Dawn Bowdish
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Machine Learning Graduate Research Intern (2021-2022)
+  * Deep Genomics
+  * Research and Development of oligonucleotide therapeutics for rare disease with machine learning
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -48,7 +41,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -62,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

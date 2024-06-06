@@ -16,20 +16,11 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* Machine Learning Graduate Research Intern
+  * Deep Genomics, Toronto
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  <!-- * Supervisor: The Users -->
+<!-- 
   
 Skills
 ======
@@ -38,14 +29,14 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+<!--   
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -61,4 +52,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
-
+ -->
