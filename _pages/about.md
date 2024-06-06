@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+Hello, I'm a MD-PhD student at McGill University (combined medical and PhD degree). My PhD research is in the area of generative networks (Flow matching, Generative Flow Network etc).  
+
 Education
 ======
 * Ph.D in Computer Science, Machine Learning, McGill, 2028 (expected)
@@ -53,3 +55,8 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
  -->
+
+
+In my spare time, I like to paint watercolour (landscape, cityscape) @vie_a_aquarelle, bake and play classical guitar. I also volunteer for the following organizations to give back and support my local community:
+* Talk Suicide - If you or someone you know is having thoughts of suicide, please reach out to us 9-8-8 (Talk suicide).
+* Art4Elderly - I'm the art instructor as well as the director (2023-2024). We offer watercolor/pencil lessons for elderly in Montreal and decrease social isolation. Recently, we branched out to populations with impaired mobility. @art4elderly
