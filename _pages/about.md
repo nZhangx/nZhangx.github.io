@@ -59,4 +59,4 @@ Service and leadership
 
 In my spare time, I like to paint watercolour (landscape, cityscape) @vie_a_aquarelle, bake and play classical guitar. I also volunteer for the following organizations to give back and support my local community:
 * Talk Suicide - If you or someone you know is having thoughts of suicide, please reach out to us 9-8-8 (Talk suicide).
-* Art4Elderly - I'm the art instructor as well as the director (2023-2024). We offer watercolor/pencil lessons for elderly in Montreal and decrease social isolation. Recently, we branched out to populations with impaired mobility. @art4elderly
+* Art4Elderly - I'm the art instructor as well as the director (2023-2024). We offer watercolor/pencil lessons for elderly people in Montreal and decrease social isolation. Recently, we branched out to people with impaired mobility. @art4elderly
