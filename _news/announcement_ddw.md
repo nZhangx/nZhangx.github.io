@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-We are presenting an extension of Trajectory Flow Matching at Digestive Diseases Week (DDW) @ San Diego. See news coverage of our work at [medscape](https://www.medscape.com/viewcollection/37789).
+We are presenting an extension of Trajectory Flow Matching at Digestive Diseases Week (DDW) @ San Diego. See news coverage of our work at [medscape](
+https://www.medscape.com/viewarticle/acute-gi-bleeds-icu-ai-algorithm-predicts-transfusion-need-2025a1000etj).
