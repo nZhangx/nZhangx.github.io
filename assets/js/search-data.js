@@ -439,18 +439,18 @@ ninja.data = [{
           window.open("mailto:%78%69.%7A%68%61%6E%67@%6D%69%6C%61.%71%75%65%62%65%63", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://www.linkedin.com/in/nicole-zhang-413059102", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-orcid',
+        title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://orcid.org/0000-0001-6485-4564", "_blank");
         },
       },{
         id: 'social-scholar',
