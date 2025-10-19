@@ -377,14 +377,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-we-are-presenting-an-extension-of-trajectory-flow-matching-at-digestive-diseases-week-ddw-san-diego-see-news-coverage-of-our-work-at-medscape",
+            },},{id: "news-we-are-presenting-an-extension-of-trajectory-flow-matching-at-digestive-diseases-week-ddw-san-diego-see-news-coverage-of-our-work-on-medscape",
           title: 'We are presenting an extension of Trajectory Flow Matching at Digestive Diseases Week...',
           description: "",
           section: "News",},{id: "news-grateful-to-have-received-the-canadian-graduate-scholarship-vanier-award",
           title: 'Grateful to have received the Canadian Graduate Scholarship - Vanier award!',
           description: "",
-          section: "News",},{id: "news-started-my-visit-at-the-mayo-clinic-rochester-mn-at-the-shung-lab",
-          title: 'Started my visit at the Mayo clinic @ Rochester, MN at the Shung...',
+          section: "News",},{id: "news-started-my-visit-to-the-mayo-clinic-rochester-mn-at-the-shung-lab",
+          title: 'Started my visit to the Mayo clinic @ Rochester, MN at the Shung...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
