@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my visit at the Mayo clinic @ Rochester, MN at the Shung lab.
+Started my visit to the Mayo clinic @ Rochester, MN at the Shung lab.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Grateful to have received the Canadian Graduate Scholarship - Vanier award!
+Grateful to have received the [Canadian Graduate Scholarship - Vanier award](https://vanier.gc.ca/en/home-accueil.html)!
