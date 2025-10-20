@@ -340,7 +340,7 @@ external_links:
   exclude:
 
 # map widget
-show_visitor_map: true
+show_visitor_map: false 
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
