@@ -114,3 +114,14 @@
       </a>
   {% endcase %}
 {% endfor %}
+
+{% if site.show_visitor_map %}
+<div style="text-align:center; margin-top:2rem;">
+  <h3>Visitor Map</h3>
+  <script
+    type="text/javascript"
+    id="mapmyvisitors"
+    src="//mapmyvisitors.com/map.js?d=Ju-s9rtyuyhzmqEWy5bfQgRfQSCpTTblIMtKvSKPJrI&cl=ffffff&w=a">
+  </script>
+</div>
+{% endif %}
